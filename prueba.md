@@ -5,4 +5,6 @@
 ##### Encabezados
 ###### Encabezados
 
-:q
+_texto en cursiva_
+**texto en negrita**
+***texto en negrita y cursiva***
