@@ -16,3 +16,5 @@ _texto en cursiva_
 - elemento 1
 - elemento 2
 - elemento 3
+
+> Esto es una cita.
