@@ -18,3 +18,4 @@ _texto en cursiva_
 - elemento 3
 
 [texto del enlace]https://facebook.com
+![Logo de Markdown](https://markdown-here.com/img/icon256.png)
