@@ -16,6 +16,3 @@ _texto en cursiva_
 - elemento 1
 - elemento 2
 - elemento 3
-
-![Logo de Markdown](https://i.imgur.com/9gf1420.png)
-
