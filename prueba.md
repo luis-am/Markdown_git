@@ -17,5 +17,5 @@ _texto en cursiva_
 - elemento 2
 - elemento 3
 
-[texto del enlace]https://facebook.com
-![Logo de Markdown](https://markdown-here.com/img/icon256.png)
+![Logo de Markdown](https://i.imgur.com/9gf1420.png)
+
